@@ -39,16 +39,14 @@ namespace TextSort
 
             sr.Close();
 
-            dictionary.ToList();
+            var sortedList = dictionary.OrderByDescending(i => i.Value);
 
-            foreach (var item in dictionary.OrderBy(i => i.Value))
+            for (int x = 0; x < 10; x++)
             {
-                item.ToString();
-
-                Console.WriteLine(item);
+                Console.WriteLine(sortedList.ElementAt(x));
             }
 
-            return dictionary;
+            return null;
         }
     }
 }

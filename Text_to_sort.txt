@@ -1,0 +1,59 @@
+Orange
+Apple
+Strawberry
+Grape
+Grape
+Grape
+Grape
+Grape
+Grape
+Grape
+Grape
+Banana
+Banana
+Banana
+Banana
+Banana
+Banana
+Lime
+Lime
+Lime
+Lime
+Lime
+Lime
+Lime
+Lime
+Lime
+Lime
+Lime
+Lime
+Kiwi
+Kiwi
+Kiwi
+Kiwi
+Orange
+Apple
+Strawberry
+Orange
+Apple
+Strawberry
+Kiwi
+Strawberry
+Kiwi
+Orange
+Apple
+Strawberry
+Orange
+Apple
+Strawberry
+Kiwi
+Strawberry
+Star Fruit
+Jack Fruit
+Star Fruit
+Jack Fruit
+Star Fruit
+Jack Fruit
+Star Fruit
+Jack Fruit
+Pomegranite
