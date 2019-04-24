@@ -1,0 +1,7 @@
+J:\_Dev\TextSort\TextSort\bin\Debug\TextSort.exe.config
+J:\_Dev\TextSort\TextSort\bin\Debug\TextSort.exe
+J:\_Dev\TextSort\TextSort\bin\Debug\TextSort.pdb
+J:\_Dev\TextSort\TextSort\obj\Debug\TextSort.csprojAssemblyReference.cache
+J:\_Dev\TextSort\TextSort\obj\Debug\TextSort.csproj.CoreCompileInputs.cache
+J:\_Dev\TextSort\TextSort\obj\Debug\TextSort.exe
+J:\_Dev\TextSort\TextSort\obj\Debug\TextSort.pdb
