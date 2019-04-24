@@ -16,7 +16,7 @@ namespace TextSort
 
         public static Dictionary<string, int> OpenFileToProcess()
         {
-            var filePath = "J:\\_Dev\\TextSort\\Text_to_sort.txt";
+            var filePath = "";
             String line;
 
             var dictionary = new Dictionary<string, int>();
